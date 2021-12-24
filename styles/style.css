@@ -1,0 +1,48 @@
+html {
+    background-color: #00539f;
+}
+
+body {
+    width: 600px;
+    padding: 20px 20px 20px 20px red;
+    border: 5px solid black;
+    margin: 0 auto;
+    background-color: #FF9500;
+}
+
+img {
+    display: block;
+    padding: 20px;
+    margin: 0 auto;
+    width: 500px;
+}
+
+p {
+    color: rebeccapurple;
+}
+
+ul {
+    color: royalblue;
+}
+
+h1 {
+    /* 盒模型 */
+    padding: 50;
+    border: 30;
+    margin: 20;
+    width: 100;
+    background-color: goldenrod;
+    color: blue;
+    /* 字体 */
+    font: ZCOOL XiaoWei;
+    font-size: 60px;
+    /* 位置 */
+    text-align: center;
+}
+
+
+/**
+选择器 {
+    属性: 值;   // 属性 + 值 = 声明
+}
+*/
