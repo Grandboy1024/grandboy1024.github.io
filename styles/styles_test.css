@@ -1,0 +1,33 @@
+body {
+    color: green;
+}
+
+.my-class-1 a {
+    color: inherit;
+}
+
+.my-class-2 a {
+    color: initial;
+}
+
+.my-class-3 a {
+    display: block;
+    background-color: blanchedalmond;
+    color: unset;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 20px;
+}
+
+
+/* .main {
+    color: red;
+    border: 1em;
+}
+
+.special {
+    color: black;
+    font: bold;
+} */

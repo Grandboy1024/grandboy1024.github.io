@@ -46,3 +46,16 @@ h1 {
     属性: 值;   // 属性 + 值 = 声明
 }
 */
+
+.blockP {
+    display: block;
+}
+
+.flexUl {
+    display: flex;
+    list-style: none;
+}
+
+.blockSpan {
+    display: block;
+}
